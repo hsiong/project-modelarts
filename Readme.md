@@ -5,7 +5,7 @@
 + ModelArts在数据标注、数据过滤上的应用技巧：自动分组: https://bbs.huaweicloud.com/blogs/187175
 + 自动分组: https://github.com/huaweicloudDocs/modelarts/blob/master/cn.zh-cn/AI%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97/%E8%87%AA%E5%8A%A8%E5%88%86%E7%BB%84.md
 + ModelArts智能标注提升70%数据标注效率: https://github.com/huaweicloud/ModelArts-Lab/tree/master/train_inference/Auto_Labeling/Auto_Labeling
-+ 
++ 基于MindSpore的ChatGLM微调: https://www.cnblogs.com/huaweiyun/p/17766924.html
 
 # 注意
 +  说明： 只能在“全部“页签下启动自动分组任务
